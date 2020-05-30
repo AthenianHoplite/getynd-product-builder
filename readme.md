@@ -46,7 +46,7 @@ At the time of writing I am on the final year of my Bachelor's degree in Softwar
 
 ### Contact Information
 
-Contact me at renatofeghipereira@gmail.com
+Contact me at renatofeghipereira5@gmail.com
 
 Contact Mystery Meridian through their website at http://www.mysterymeridian.com/contact_pt.html or directly through mysterymeridian@gmail.com or +351 918 505 831
 
