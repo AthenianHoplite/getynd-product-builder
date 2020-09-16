@@ -5,6 +5,8 @@ Getynd Product Builder was developed for [Mystery Meridian](http://www.mysteryme
 
 While I was responsible for the application's development in Unity3D, all the graphical assets as well as UI and UX design were the responsability of Mystery Meridian's employees.
 
+If you are short on time and can't be bothered to read anything else watch this demo [Getynd Product Builder demo](https://streamable.com/ynm9mp).
+
 #
 
 ### Running on Windows
@@ -35,7 +37,7 @@ Getynd Product Builder was created to allow customers to better visualize their 
 
 The 3 subsets (or collections) featured are *Select*, *Linea* and *Essenciel*. Each has a main finish material which will be the material of the main curtain rod, and a decor material which is the material of the decorative middle sections. The user selects a collection, a main material, a decorative material and finally a size for the curtain rod. In the end the user is presented with the different parts he needs to pick up as well as their location.
 
-For a more detailed look at the user's experience watch the [Getynd Product Builder demo](https://streamable.com/7d4b7a) or go [here](./detailed_description.md).
+For a more detailed look at the user's experience watch the [Getynd Product Builder demo](https://streamable.com/ynm9mp) or go [here](./detailed_description.md).
 #
 
 ### About me
